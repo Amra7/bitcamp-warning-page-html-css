@@ -5,6 +5,11 @@ body {
 
 }
 
+strong{
+  color: #C2D202;
+}
+
+
 #container {
   background-color: #645483;
   color: white;
@@ -33,13 +38,10 @@ h1.site-title:before {
   color: #C2D202;
 }
 
-strong{
-
-   font-weight: bold;
-   color: #C2D202;
-}
-
 .button {
   border: 2px solid white;
   border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
 }
